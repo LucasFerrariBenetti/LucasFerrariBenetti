@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+Meu nome é Lucas, moro no Brasil e sou engenheiro de software especializado em front-end na CI&T. Curto muito a linguagem JavaScript e atualmente utilizo bastante TypeScript, tenho experiências com React e Angular, e também curto demais CSS e conceitos UI/UX.
+
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucas-ferrari-benetti-877079134/)](https://www.linkedin.com/in/lucas-ferrari-benetti-877079134/)
 
 <!--
